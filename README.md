@@ -2,10 +2,10 @@
 
 ## Platform Engineer & DevOps Enthusiast from Kansas City
 
-🚀 Passionate about cloud-native technologies and infrastructure automation
-🛠 Specializing in GitOps workflows & Kubernetes orchestration
-💰 FinOps practitioner focusing on cloud cost optimization
-🔍 Driving observability across cloud platforms
+- 🚀 Passionate about cloud-native technologies and infrastructure automation
+- 🛠 Specializing in GitOps workflows & Kubernetes orchestration
+- 💰 FinOps practitioner focusing on cloud cost optimization
+- 🔍 Driving observability across cloud platforms
 
 ### 🤝 Connect with me:
 
@@ -21,11 +21,5 @@
 <a href="https://www.datadoghq.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="datadog" width="40" height="40"/></a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
 
-![devsethops](https://github-readme-stats.vercel.app/api/top-langs?username=devsethops&show_icons=true&locale=en&layout=compact&theme=solarized-dark)
-
-![devsethops](https://github-readme-stats.vercel.app/api?username=devsethops&show_icons=true&locale=en&count_private=true&theme=solarized-dark)
-
-![devsethops](https://github-readme-streak-stats.herokuapp.com/?user=devsethops&theme=solarized-dark)
-
 ---
-💡 *"Infrastructure as code isn't about writing code; it's about encoding business practices."*
+*"Infrastructure as code isn't about writing code; it's about encoding business practices."*
