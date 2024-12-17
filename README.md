@@ -1,7 +1,5 @@
 # Hi there, I'm Seth 👋
-
-## Platform Engineer & DevOps Enthusiast from Kansas City
-
+Platform Engineer & DevOps Enthusiast from Kansas City
 - 🚀 Passionate about cloud-native technologies and infrastructure automation
 - 🛠 Specializing in GitOps workflows & Kubernetes orchestration
 - 💰 FinOps practitioner focusing on cloud cost optimization
